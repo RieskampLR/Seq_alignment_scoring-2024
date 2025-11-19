@@ -1,0 +1,5 @@
+gap=-1
+identity=1
+transition=-1
+transversion=-2
+
