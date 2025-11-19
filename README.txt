@@ -1,7 +1,5 @@
 README
 
-Lea Rachel Rieskamp
-21.10.2024
 BINP16 course project - 2
 (For complimentary Driver file info see bottom of page)
 
